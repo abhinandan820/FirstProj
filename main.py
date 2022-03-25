@@ -1,3 +1,3 @@
 from utils import multiply
 
-print(multiply(2 , 3))
+print(multiply(5 , 3))
