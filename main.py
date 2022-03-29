@@ -8,3 +8,4 @@ print(sys.path)
 print(__file__)
 
 """ added dic string   """
+"World"
